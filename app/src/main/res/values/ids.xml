@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="confirmedForeignResult" type="id" />
+    <item name="confirmedIndianResult" type="id" />
+    <item name="dischargedResult" type="id" />
+    <item name="deathsResult" type="id" />
+    <item name="TextView1" type="id" />
+</resources>
